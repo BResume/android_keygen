@@ -3,7 +3,7 @@ import random, string, argparse, os, subprocess
 def make_parser():
     parse = argparse.ArgumentParser(description = "Keygen args")
 
-    parse.add_argument("--exec", default = True, help = "If true, we get params from the exec.json file.")
+    parse.add_argument("--exec", default = False, help = "If true, we get params from the exec.json file.")
     parse.add_argument("--exec_file", default = "./exec.json", help = "The path to the exec.json file.")
     parse.add_argument("--password_length", default = 20, help = "The length of the generated password.")
     parse.add_argument("--key_password_length", default = 20, help = "The length of the generated key password.")

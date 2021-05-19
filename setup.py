@@ -7,7 +7,7 @@ setup(
   name = 'android_keygen',
   packages = find_packages(),
   version = __version__,
-  license='GPLv3+',
+  license='MIT',
   description = 'A simple keygen creator',
   author = 'Behron Georgantas',
   author_email = 'behronsresume@gmail.com',
