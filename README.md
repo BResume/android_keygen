@@ -1,5 +1,11 @@
+## Installation 
+    pip install android_keygen
+    or run setup.py install
+
 ## Intro
     This is a simple tool for creating an android distribution key for your app.
+    There's a bug that forces the generated .keystore to be dropped in the root directory. 
+    I'll try and fix that soon. 
 
 ## Usage
     android_keygen --base_name {MYNAME}
