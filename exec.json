@@ -32,5 +32,22 @@
         "country_code" : "+1",
         "key_password_length" : 20,
         "key_password" : ""
+    },    
+    {
+        "password_length" : 20,
+        "base_name" : "voidwalkers",
+        "alias" : "",
+        "output_path" : "./output",
+        "alg" : "RSA",
+        "size" : 2048,
+        "validity" : 10000,
+        "user_name" : "Behron Georgantas",
+        "org_name" : "Sympl Games",
+        "org_name_unit" : "Sympl Games",
+        "city" : "Boulder",
+        "state" : "Colorado",
+        "country_code" : "+1",
+        "key_password_length" : 20,
+        "key_password" : ""
     }
 ]

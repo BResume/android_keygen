@@ -11,7 +11,7 @@ setup(
   description = 'A simple keygen creator',
   author = 'Behron Georgantas',
   author_email = 'behronsresume@gmail.com',
-  url = 'https://github.com/BResume/android_keygen',
+  url = 'https://github.com/bresume/android_keygen',
   classifiers=[
       'Development Status :: 4 - Beta',
       'Intended Audience :: Developers',
